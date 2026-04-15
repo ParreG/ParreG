@@ -41,4 +41,4 @@ Auth           JWT · 2FA · ASP.NET Identity
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parman_Gitijah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/parman-gitijah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parman_Gitijah-0077B5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/parman-gitijah-832316187/])
