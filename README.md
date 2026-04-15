@@ -27,7 +27,7 @@ Auth           JWT · 2FA · ASP.NET Identity
 
 **🏦 SEB (internship)** | Part of the Customer Process team owning ~15 applications and 90 microservices handling customer onboarding and KYC. Built multi step wizards in Angular with Reactive Forms and RxJS, implemented RESTful APIs in ASP.NET Core, wrote Playwright tests and worked with CI/CD in Azure DevOps. Also built an internal automation tool that scans NuGet packages across 90 .NET services, triggers Azure DevOps builds and visualises the results in a custom UI | saving the team hours of manual work every sprint.
 
-**🖥️Beyond these I've also shipped a course sales platform with Stripe and 2FA as Scrum Master in a team of 11, a wedding invitation app with RSVP functionality and an admin dashboard, and a handful of other projects along the way. More coming. 🚧
+🖥️Beyond these I've also shipped a course sales platform with Stripe and 2FA as Scrum Master in a team of 11, a wedding invitation app with RSVP functionality and an admin dashboard, and a handful of other projects along the way. More coming. 🚧
 
 ---
 
